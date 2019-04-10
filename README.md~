@@ -1,0 +1,15 @@
+# jive-backend-master
+
+This is the repository for the backend and API of the site jive.live. The API currently contains these functionalities:
+
+1. Querying the DB by userID and username to check if user exists. 
+2. Requesting the current user and returning the user's details from the DB.
+3. Authenticating users and creating new users with login and registration routes and methods. 
+4. Updating private user fields in the DB with proper routes and methods after user submits profile customizations. 
+<<<<<<< HEAD
+=======
+
+TEST TEST TEST
+>>>>>>> chat
+
+
